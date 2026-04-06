@@ -53,3 +53,12 @@ De la Serna Tuya, J. M. (2026). *Colombia Economic Impact Database 2024-2025: Ke
 ## License
 
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Colombia Economic Impact Database 2024 2025*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/colombia-economic-impact-database-2024-2025 
+
+See `CITATION.cff` for formatted references.
